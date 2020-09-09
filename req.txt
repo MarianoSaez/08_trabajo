@@ -1,0 +1,11 @@
+Requerimientos
+
+1- Agregar estado en producto [vendido, disponible]
+    Poder modificar producto y pasarlo a vendido, es decir que disponible va por defecto.
+
+
+2- Agregar Validación de precio (NO puede ser negativo)
+
+
+3- Listar solo los disponibles get_lista_estado(self, get_lista_productos, estado)		
+     listar disponibles, vendidos
